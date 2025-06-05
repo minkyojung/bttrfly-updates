@@ -4,6 +4,19 @@
     <title>Bttrfly Dev Updates</title>
 
     <item>
+      <title>Version 1.0.1 (104) – New icon</title>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:version>104</sparkle:version>
+
+      <enclosure
+        url="https://minkyojung.github.io/bttrfly-updates/bttrfly-1.0.1_104.dmg"
+        length="5349031"
+        sparkle:edSignature="AkMV4rJANto2cue8rdLN/nPNmtLEqDVf93tMajv8mvrCbyw0diCe/kJ8YzwFctm9JBx5KjQafWTh6hbVc0TmAw=="
+        sparkle:version="104"
+        sparkle:shortVersionString="1.0.1"/>
+    </item>
+
+    <item>
       <title>Version 1.0.1</title>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:version>103</sparkle:version>
