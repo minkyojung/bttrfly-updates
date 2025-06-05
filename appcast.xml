@@ -6,13 +6,13 @@
     <item>
       <title>Version 1.0.1</title>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <sparkle:version>102</sparkle:version>
+      <sparkle:version>103</sparkle:version>
 
       <enclosure
-        url="http://localhost:8000/bttrfly-1.0.1.dmg"
-        length="5861834"
-        sparkle:edSignature="d2BSvGJ4bMatQ32sGtj2uxFQL4HMStqRUM8QtagSxmrf5nOBj/qxT2WdfR2OnWE2rKR3T7t2WLCzX1KSJ2CeDA=="
-        sparkle:version="102"
+        url="https://minkyojung.github.io/bttrfly-updates/bttrfly-1.0.1_103.dmg"
+        length="5692099"
+        sparkle:edSignature="1SzxDLVj0dJFGUwi1jiQymzHJpJaxpewkNavwyE+PuRaqcv3Tx2jrDIFn0CM4Bx3FecMMxNx7WBw3yEgtgL4Aw=="
+        sparkle:version="103"
         sparkle:shortVersionString="1.0.1"/>
     </item>
 
