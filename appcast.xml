@@ -3,6 +3,18 @@
   <channel>
     <title>Bttrfly Dev Updates</title>
     <item>
+      <title>Bttrfly 1.0.1 (111)</title>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:version>111</sparkle:version>
+      <pubDate>Sat, 07 Jun 2025 21:35:00 +0000</pubDate>
+
+      <enclosure
+        url="https://minkyojung.github.io/bttrfly-updates/downloads/Bttrfly_1.0.1_111.dmg"
+        length="5335324"
+        sparkle:edSignature="Oz7KNh2Wxs6nLlo4IV08D4vLql/P5qRLVVcUn0umNnFP8reKkPbjLJ+1Z2mjd4ovXzLSvYalvgDzhYpKtpkvCQ=="
+        type="application/x-apple-diskimage"/>
+    </item>
+    <item>
       <title>Bttrfly 1.0.1 (110)</title>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:version>110</sparkle:version>
@@ -65,3 +77,4 @@
 
   </channel>
 </rss>
+
