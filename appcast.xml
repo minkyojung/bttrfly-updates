@@ -2,6 +2,18 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Bttrfly 1.0.1 (114)</title>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:version>114</sparkle:version>
+      <pubDate>Tue, 17 Jun 2025 12:00:00 +0000</pubDate>
+
+      <enclosure
+        url="https://minkyojung.github.io/bttrfly-updates/downloads/Bttrfly_1.0.1_114.dmg"
+        length="8382216"
+        sparkle:edSignature="TIXZdorMUl1IeSpHwfmdsvKYoR4EyCmRsKuIJySccc7iJncctHfgzCPETFaHvvZXTe5pgvLy9RKvUnZu6V3oDg=="
+        type="application/x-apple-diskimage"/>
+    </item>
+    <item>
       <title>Bttrfly 1.0.1 (113)</title>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:version>113</sparkle:version>
